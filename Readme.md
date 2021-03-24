@@ -3,7 +3,7 @@
 ####  Deployment Scenario 2 - one Admin Node, two Master Nodes, two Worker Nodes
 
 ```
-Futures of this build:
+Features of this build:
 
    Two Masters
    Deployment on VMware vSphere 7.0
